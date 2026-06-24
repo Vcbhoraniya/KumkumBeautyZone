@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import henna24 from '../images/henna24.jpeg';
-import bride34 from '../images/bride34.jpeg';
-import bride40 from '../images/bride40.jpeg';
+import bride34 from '../images/bride34.jpg';
+import bride40 from '../images/bride40.jpg';
 import nail7 from '../images/nail7.jpeg';
 
 const images = [
