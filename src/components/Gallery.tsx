@@ -1,25 +1,30 @@
 import { motion } from 'framer-motion';
+import henna24 from '../images/henna24.jpeg';
+import bride34 from '../images/bride34.jpeg';
+import bride40 from '../images/bride40.jpeg';
+import nail7 from '../images/nail7.jpeg';
+
 const images = [
 {
-      src: 'src/images/henna24.jpeg',
+      src: henna24,
       alt: 'Henna Design 24',
       caption: 'Intricate Henna Artistry',
       className: 'col-span-12 md:col-span-4 aspect-square md:aspect-[3/4]'
 },
 {
-      src: 'src/images/bride34.jpg',
+      src: bride34,
       alt: 'Makeup Look 1',
       caption: 'Elegant Hairstyle Artistry',
       className: 'col-span-12 md:col-span-8 aspect-[16/10]'
 },
 {
-  src: 'src/images/bride40.jpg',
+  src: bride40,
       alt: 'Bride 40',
       caption: 'Elegant Bridal Style',
   className: 'col-span-12 md:col-span-5 aspect-[4/5]'
 },
 {
-      src: 'src/images/nail7.jpeg',
+      src: nail7,
       alt: 'Nail Art 7',
       caption: 'Creative Nail Design',
       className: 'col-span-12 md:col-span-7 aspect-[16/9]'

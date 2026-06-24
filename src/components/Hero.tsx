@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
+import Logo from '../images/Logo.jpeg';
 export function Hero() {
   return (
     <section
@@ -14,7 +15,7 @@ export function Hero() {
         }}>
         
         <span className="text-[10px] uppercase tracking-[0.3em] text-kumkum-gold font-medium">
-          &mdash; Issue No. 01 &middot; The Beauty House
+          &mdash; Issue No. 01 &middot; The Beauty Zone
         </span>
       </div>
 
@@ -108,7 +109,7 @@ export function Hero() {
             
             <div className="relative aspect-[3/4] w-full max-w-md mx-auto lg:ml-auto overflow-hidden">
               <img
-                src="src/images/Logo.jpeg"
+                src= {Logo}
                 alt="Elegant salon interior"
                 className="w-full h-full object-cover transition-transform duration-[2s] hover:scale-105" />
               
