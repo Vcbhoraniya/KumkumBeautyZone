@@ -1,4 +1,3 @@
-import React from 'react';
 export function Footer() {
   return (
     <footer className="bg-kumkum-ink text-kumkum-parchment pt-12 md:pt-24 pb-8 md:pb-12">

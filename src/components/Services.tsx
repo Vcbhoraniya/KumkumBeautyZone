@@ -1,6 +1,14 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowRight, X } from 'lucide-react';
+import Hairstyle12 from '../images/Hairstyle12.jpg.jpeg';
+import Hairstyle13 from '../images/Hairstyle13.jpg.jpeg';
+import Hairstyle14 from '../images/Hairstyle14.jpg.jpeg';
+import Hairstyle15 from '../images/Hairstyle15.jpg.jpeg';
+import Hairstyle16 from '../images/Hairstyle16.jpg.jpeg';
+import Hairstyle17 from '../images/Hairstyle17.jpg.jpeg';
+import Hairstyle18 from '../images/Hairstyle18.jpg.jpeg';
+import Hairstyle19 from '../images/Hairstyle19.jpg.jpeg';
 
 const services = [
 {
@@ -10,7 +18,7 @@ const services = [
 'Trendy and personalized hairstyles designed to enhance your look.',
  photos: [
     {
-      src: 'src/images/Hairstyle12.jpg.jpeg',
+      src: Hairstyle12,
       alt: 'Hair Styling 1',
     },
     {
@@ -46,27 +54,27 @@ const services = [
       alt: 'Hair Styling 1',
     },
     {
-      src: 'src/images/Hairstyle13.jpg.jpeg',
+      src: Hairstyle13,
       alt: 'Hair Styling 1',
     },
     {
-      src: 'src/images/Hairstyle15.jpg.jpeg',
+      src: Hairstyle14,
       alt: 'Hair Styling 1',
     },
     {
-      src: 'src/images/Hairstyle16.jpg.jpeg',
+      src: Hairstyle16,
       alt: 'Hair Styling 1',
     },
     {
-      src: 'src/images/Hairstyle17.jpg.jpeg',
+      src: Hairstyle17,
       alt: 'Hair Styling 1',
     },
     {
-      src: 'src/images/Hairstyle18.jpg.jpeg',
+      src: Hairstyle18,
       alt: 'Hair Styling 1',
     },
     {
-      src: 'src/images/Hairstyle19.jpg.jpeg',
+      src: Hairstyle19,
       alt: 'Hair Styling 1',
     },
     {
