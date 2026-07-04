@@ -1,6 +1,31 @@
 import { motion } from 'framer-motion';
 const packages = [
 {
+  name: 'CO-BRIDE (SIDERS)',
+  price: 'Starting at ₹1,000',
+  description: 'Quick makeup and hairstyling for co-brides and sisters.',
+  features: [
+  'Makeup & Hairstyle']
+
+},
+{
+  name: 'JAL BRIDE',
+  price: 'Starting at ₹2,000',
+  description: 'Bridal-ready makeup and hairstyle for the haldi and jal ceremony.',
+  features: [
+  'Makeup & Hairstyle']
+
+},
+{
+  name: 'ENGAGEMENT BRIDE',
+  price: 'Starting at ₹5,000',
+  description: 'Elegant engagement look with jewellery support.',
+  features: [
+  'Makeup & Hairstyle',
+  'Bridal Jewellery']
+
+},
+{
   name: 'SILVER',
   price: '₹10,000',
   description: 'Essential bridal preparations for your special day.',

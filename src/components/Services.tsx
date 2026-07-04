@@ -991,11 +991,11 @@ export function Services() {
                     transition={{ delay: idx * 0.1 }}
                     className="group">
                     
-                    <div className="overflow-hidden rounded-lg bg-kumkum-ink/5 aspect-square md:aspect-[4/5]">
+                    <div className="overflow-hidden rounded-lg bg-kumkum-ink/5 md:aspect-[4/5]">
                       <img
                         src={photo.src}
                         alt={photo.alt}
-                        className="w-full h-full object-cover transition-transform duration-[2s] group-hover:scale-105" />
+                        className="w-full h-auto md:h-full object-contain transition-transform duration-[2s] md:group-hover:scale-105" />
                     </div>
             
                   </motion.div>
