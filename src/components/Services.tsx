@@ -158,6 +158,7 @@ import nail15 from '../images/nail15.jpeg';
 import nail16 from '../images/nail16.jpeg';
 import nail17 from '../images/nail17.jpeg';
 import nail18 from '../images/nail18.jpeg';
+import nail19 from '../images/nail19.jpeg';
 
 
 
@@ -834,6 +835,10 @@ const services = [
     {
       src: nail18,
       alt: 'Nail Art 18',
+    },
+    {
+      src: nail19,
+      alt: 'Nail Art 19',
     }
   ]
 }];
