@@ -43,7 +43,7 @@ const packages = [
   features: [
   '4 Function Coverage',
   'Mandap Styling',
-  'Sangeet or Haldi Makeup',
+  'Sangeet Makeup',
   'Bridal Day Look',
   'Makeup & Hairstyle',
   'Bridal Jewellery',
