@@ -112,6 +112,11 @@ import bride59 from '../images/bride59.jpg';
 import bride60 from '../images/bride60.jpg';
 import bride61 from '../images/bride61.jpg';
 import bride62 from '../images/bride62.jpg';
+import bride63 from '../images/bride63.jpeg';
+import bride64 from '../images/bride64.jpg';
+import bride65 from '../images/bride65.jpeg';
+import bride66 from '../images/bride66.jpeg';
+
 import henna1 from '../images/henna1.jpeg';
 import henna2 from '../images/henna2.jpeg';
 import henna3 from '../images/henna3.jpeg';
@@ -384,6 +389,26 @@ const services = [
   'Traditional and contemporary bridal looks to make your special day unforgettable.',
 
   photos: [
+    {
+      src: bride63,
+      alt: 'Bride 63',
+
+    },
+    {
+      src: bride64,
+      alt: 'Bride 64',
+
+    },
+    {
+      src: bride65,
+      alt: 'Bride 65',
+
+    },
+    {
+      src: bride66,
+      alt: 'Bride 66',
+
+    },
     {
       src: bride1,
       alt: 'Bride 1',
