@@ -41,7 +41,7 @@ const packages = [
   price: '₹25,000',
   description: 'Complete bridal experience with multiple functions coverage.',
   features: [
-  '4 Function Coverage',
+  'Function Coverage',
   'Mandap Styling',
   'Sangeet Makeup',
   'Bridal Day Look',
