@@ -61,7 +61,7 @@ const packages = [
   price: '₹30,000',
   description: 'Premium bridal package with professional skincare services.',
   features: [
-  '4 Function Coverage',
+  'Function Coverage',
   'Mandap Styling',
   'Sangeet or Haldi Makeup',
   'Bridal Day Look',
